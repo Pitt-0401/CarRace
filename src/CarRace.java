@@ -13,6 +13,7 @@ public class CarRace {
 		Car car2 = new Car();
 	}
 
+	// Behavior
 	public void startRace() {
 
 	}
